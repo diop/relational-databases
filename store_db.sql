@@ -28,7 +28,6 @@ INSERT INTO bookstore VALUES (13, "Programming Clojure", "Aaron", 26, 2012);
 
 INSERT INTO bookstore VALUES (14, "Clojure Data Structures and Algorithms Cookbook", "Rafik", 47, 2015);
 
-
 INSERT INTO bookstore VALUES (15, "Mastering Clojure Macros: Write Cleaner, Faster, Smarter Code", "Colin", 15, 2014);
 
 SELECT * FROM bookstore WHERE price > 15 GROUP BY price;
