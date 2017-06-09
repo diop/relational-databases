@@ -7,22 +7,22 @@ Init 4: Relational Databases   #254
 
 Setup repo, complete a Khan Academy project, and install PostgreSQL. For instructions on installing PostgreSQL, see the guides in Resources > Guides.
 
-[ ] Artifact repo is created on GitHub.
-[ ] The artifact repo is properly licensed, preferably with the MIT license.
-[ ] Solution SQL for the Khan Academy project: Design a store database is added to a file in your repo named store_db.sql
-[ ] SQL in store_db.sql has consistent indentation.
-[ ] All the SQL keywords in store_db.sql are written in ALL CAPS.
-[ ] PostgreSQL is installed on your computer with Homebrew.
+[X] Artifact repo is created on GitHub.
+[X] The artifact repo is properly licensed, preferably with the MIT license.
+[X] Solution SQL for the Khan Academy project: Design a store database is added to a file in your repo named store_db.sql
+[X] SQL in store_db.sql has consistent indentation.
+[X] All the SQL keywords in store_db.sql are written in ALL CAPS.
+[X] PostgreSQL is installed on your computer with Homebrew.
 
 ## Stage 2
 
 Complete another Khan Academy project, use the SQL Designer tool, and install the Postico app (this is recommended, but not required).
 
-[ ] Solution SQL for the Khan Academy project: Data dig is added to a file in your repo named data_dig.sql
-[ ] SQL in data_dig.sql has consistent indentation.
-[ ] All the SQL keywords in data_dig.sql are written in ALL CAPS.
-[ ] Schema diagrams are created for both the “Store database” and “Data dig” database using the SQL Designer tool.
-[ ] Screenshots of each schema diagram are added to repo as store_db_schema.png and data_dig_schema.png, respectively.
+[X] Solution SQL for the Khan Academy project: Data dig is added to a file in your repo named data_dig.sql
+[X] SQL in data_dig.sql has consistent indentation.
+[X] All the SQL keywords in data_dig.sql are written in ALL CAPS.
+[X] Schema diagrams are created for both the “Store database” and “Data dig” database using the SQL Designer tool.
+[X] Screenshots of each schema diagram are added to repo as store_db_schema.png and data_dig_schema.png, respectively.
 
 ## Stage 3
 
@@ -30,48 +30,47 @@ Create schemas and mock data for the “Music Player” app from the Init 3 goal
 
 Music Player
 
-[ ] Folder music-player/ exists in your repo.
-[ ] Database schema SQL (using PostgreSQL syntax) for the Music Player from Init 3: Hello, Web Servers is included in the [ ] file music-player/schema.sql.
-[ ] Music Player schema includes table and appropriate columns for Artists
-[ ] Music Player schema includes table and appropriate columns for Albums
-[ ] Music Player schema includes table and appropriate columns for Songs
-[ ] Music Player schema includes table and appropriate columns for Playlists
-[ ] Mock data is generated for the Music Player and added to the file music-player/mock_data.sql.
-[ ] Sample queries against the Music Player database are added to the file music-player/queries.sql.
-[ ] Queries against the Music Player use the WHERE keyword (at least once)
-[ ] Queries against the Music Player use the LIMIT keyword (at least once)
-[ ] Queries against the Music Player use the ORDER BY keyword (at least once)
-[ ] Queries against the Music Player use the LIKE keyword (at least once)
-[ ] Queries against the Music Player use the AND/OR keyword (at least once)
-[ ] Queries against the Music Player use the HAVING keyword (at least once)
-[ ] Queries against the Music Player use the IN keyword (at least once)
-[ ] Queries against the Music Player use the JOIN keyword (at least once)
+[X] Folder music-player/ exists in your repo.
+[X] Database schema SQL (using PostgreSQL syntax) for the Music Player from Init 3: Hello, Web Servers is included in the file music-player/schema.sql.
+[X] Music Player schema includes table and appropriate columns for Artists
+[X] Music Player schema includes table and appropriate columns for Albums
+[X] Music Player schema includes table and appropriate columns for Songs
+[X] Music Player schema includes table and appropriate columns for Playlists
+[X] Mock data is generated for the Music Player and added to the file music-player/mock_data.sql.
+[X] Sample queries against the Music Player database are added to the file music-player/queries.sql.
+[X] Queries against the Music Player use the WHERE keyword (at least once)
+[X] Queries against the Music Player use the LIMIT keyword (at least once)
+[X] Queries against the Music Player use the ORDER BY keyword (at least once)
+[X] Queries against the Music Player use the LIKE keyword (at least once)
+[X] Queries against the Music Player use the AND/OR keyword (at least once)
+[X] Queries against the Music Player use the HAVING keyword (at least once)
+[X] Queries against the Music Player use the IN keyword (at least once)
+[X] Queries against the Music Player use the JOIN keyword (at least once)
 
 Bike Shop
 
 Create a database for a fictional bike shop. Use the Table Schema for Bike Shop provided.
 
-[ ] Folder bike-shop/ exists in your repo.
-[ ] Database schema SQL (using PostgreSQL syntax) for the Bike Shop is included in the file bike-shop/schema.sql.
-[ ] Bike Shop schema matches the specifications in Table Schema for Bike Shop.
+[X] Folder bike-shop/ exists in your repo.
+[X] Database schema SQL (using PostgreSQL syntax) for the Bike Shop is included in the file bike-shop/schema.sql.
+[X] Bike Shop schema matches the specifications in Table Schema for Bike Shop.
 
 ## Stage 4
 
 Complete the final Khan Academy project. Design and create schemas for the “Bossggle” app from the Init 1 goals.
 
-[ ] Solution SQL for the Khan Academy project: App impersonator is added to a file in your repo named app_impersonator.sql
-[ ] SQL in app_impersonator.sql has consistent indentation.
-[ ] All the SQL keywords in app_impersonator.sql are written in ALL CAPS.
-[ ] Folder bossggle/ exists in your repo.
-[ ] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from Init 1: Bossggle Word Game is included in the file bossggle/schema.sql.
-[ ] Bossggle schema supports the following features (i.e. you could write SQL to show this data):
-
-[ ] List all words guessed
-[ ] Count all correct words guessed
-[ ] Count all incorrect words guessed
-[ ] List all words guessed and their scores
-[ ] Get sum of scores for all words guessed
-[ ] Show 10 most recently guessed words
+[X] Solution SQL for the Khan Academy project: App impersonator is added to a file in your repo named app_impersonator.sql
+[X] SQL in app_impersonator.sql has consistent indentation.
+[X] All the SQL keywords in app_impersonator.sql are written in ALL CAPS.
+[X] Folder bossggle/ exists in your repo.
+[X] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from Init 1: Bossggle Word Game is included in the file bossggle/schema.sql.
+[X] Bossggle schema supports the following features (i.e. you could write SQL to show this data):
+[X] List all words guessed
+[X] Count all correct words guessed
+[X] Count all incorrect words guessed
+[X] List all words guessed and their scores
+[X] Get sum of scores for all words guessed
+[X] Show 10 most recently guessed words
 
 ## Stage 5
 
